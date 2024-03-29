@@ -1,0 +1,5 @@
+s = input("Enter the list of numbers: ")
+str_s = str(s)
+set_s = set(str_s)
+num_s = len(set_s)
+print(num_s)
