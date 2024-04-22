@@ -1,0 +1,23 @@
+[
+  {
+    "ID": 1,
+    "Age": 25,
+    "Skills": ["play the games", "programming"],
+    "First_name": "Ben",
+    "Last_name": "Doc"
+  },
+  {
+    "ID": 2,
+    "Age": 33,
+    "Skills": ["skiing", "singing"],
+    "First_name": "Kate",
+    "Last_name": "Mary"
+  },
+  {
+    "ID": 3,
+    "Age": 28,
+    "Skills": ["basketball", "dancing"],
+    "First_name": "Ron",
+    "Last_name": "Mark"
+  }
+]
